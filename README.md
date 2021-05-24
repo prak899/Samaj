@@ -27,7 +27,7 @@ Please make sure to update tests as appropriate.
 
 ## Maintainers
 This project is mantained by:
-* [Federico Ramundo](http://github.com/prak899)
+* [Prakash Majhi](http://github.com/prak899)
 
 
 ## Contributing
