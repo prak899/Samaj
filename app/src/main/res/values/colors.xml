@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#75221E</color>
+    <color name="colorPrimaryDark">#681D1A</color>
+    <color name="colorAccent">#7987cb</color>
+    <color name="colorDarkGrey">#6C7066</color>
+    <color name="colorLightGrey">#cfcfcf</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLightBlue">#2E88B4</color>
+    <color name="colorYellow">#FFEB3B</color>
+    <color name="colorGreen">#4D9D4B</color>
+
+
+    <color name="colorBlack">#263238</color>
+    <color name="dialogErrorColor">#F27474</color>
+    <color name="colorRed">#f44336</color>
+
+    <color name="color_new_blue">#75221E</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_white_alpha_06">#96ffffff</color>
+</resources>

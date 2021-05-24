@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SutSarthiSamaj</string>
+
+    <string name="finish">Finish</string>
+    <string name="go_back">Go back</string>
+    <!--Stepper Names-->
+    <string name="toolbar_stepper1">General Information</string>
+    <string name="toolbar_stepper2">Permanent Address</string>
+    <string name="toolbar_stepper3">Temporary Address</string>
+    <string name="toolbar_stepper4">Wifes Maternal Information</string>
+    <string name="toolbar_stepper5">Family Members</string>
+
+
+    <string name="family_head_name">Family Head Name</string>
+    <string name="father_name_husband_name">Fathers/Husbands Name</string>
+    <string name="wifeSectio">Fathers Name</string>
+    <string name="age">Age</string>
+    <string name="mobile">Mobile No</string>
+    <string name="sut_sam_aj">सुत सारथी समाज</string>
+    <string name="todo">TODO</string>
+    <string name="address">Address</string>
+    <string name="addressTemp">अस्थायी पता</string>
+    <string name="pin">Pin Code</string>
+    <string name="name">Name</string>
+    <string name="village">Village</string>
+
+
+    <string name="login_welcoming_message1">Please enter your Username \nand Password</string>
+    <string name="login_text">सूत सारथी समाज छ.ग.प्रदेश\n जनगणना-2021</string>
+    <string name="login_welcoming_message">जनगणना-2021</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="enter_your_admin_login_password">Enter your admin login password</string>
+    <string name="splash_app_version">v %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="job_description">Job Description</string>
+
+    <string name="text5">Succesfully uploaded data</string>
+    <string name="text7">Succesfully delete old data</string>
+    <string name="text6">Your old data has been deleted you can continue now.</string>
+    <string name="M_name">Name</string>
+    <string name="M_age">Age</string>
+    <string name="G_qualification">Qualification</string>
+</resources>
