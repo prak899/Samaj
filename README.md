@@ -24,6 +24,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Build variants
+Use the Android Studio *Build Variants* button to choose between **production** and **staging** flavors combined with debug and release build types
+
 
 ## Maintainers
 This project is mantained by:
