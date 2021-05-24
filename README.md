@@ -8,6 +8,7 @@ Use the version control to access it.
 ```bash
 https://github.com/prak899/Samaj.git
 ```
+## Screen shot
 <img src="https://user-images.githubusercontent.com/58839967/119403203-96ef2400-bcfb-11eb-8058-1928888d86ff.png" width="30%"></img> 
 <img src="https://user-images.githubusercontent.com/58839967/119403252-ab332100-bcfb-11eb-86d3-ec4e03da6d83.png" width="30%"></img> 
 <img src="https://user-images.githubusercontent.com/58839967/119403294-bd14c400-bcfb-11eb-8b18-2ad62fdcb3ef.png" width="30%"></img>
