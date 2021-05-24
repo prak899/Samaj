@@ -8,7 +8,9 @@ Use the version control to access it.
 ```bash
 https://github.com/prak899/Samaj.git
 ```
-<img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png" width="30%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png" width="30%"></img> 
+<img src="https://cloud.githubusercontent.com/assets/4307137/10105284/26aa7ad4-63ae-11e5-88b7-bc523a095c9f.png" width="30%"></img>
 
 ## Usage
 
