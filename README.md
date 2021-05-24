@@ -8,7 +8,7 @@ Use the version control to access it.
 ```bash
 https://github.com/prak899/Samaj.git
 ```
-![alt text](https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png)
+<img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> <img src="https://user-images.githubusercontent.com/58839967/119402190-390e0c80-bcfa-11eb-9836-71f6593637a8.png" width="18%"></img> 
 
 ## Usage
 
