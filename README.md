@@ -6,7 +6,7 @@ Project that runs for entries
 Use the version control to access it.
 
 ```bash
-
+https://github.com/prak899/Samaj.git
 ```
 
 ## Usage
