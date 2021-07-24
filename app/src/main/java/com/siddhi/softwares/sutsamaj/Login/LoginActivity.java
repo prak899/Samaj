@@ -80,7 +80,7 @@ public class LoginActivity extends AppCompatActivity {
         try{
 
             httpclient=new DefaultHttpClient();
-            httppost= new HttpPost("http://sutsarthisamajcg.in/survey/api/login"); // make sure the url is correct.
+            httppost= new HttpPost("https://sutsarthisamajcg.in/survey/api/login"); // make sure the url is correct.
             //add your data
             nameValuePairs = new ArrayList<NameValuePair>(2);
 

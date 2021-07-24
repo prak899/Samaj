@@ -259,6 +259,8 @@
         android:layout_height="match_parent">
 
         <Button
+            android:textColor="@color/ms_white"
+            android:background="@color/colorPrimary"
             android:id="@+id/register"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -267,6 +269,8 @@
             android:textAllCaps="false"
             />
         <Button
+            android:textColor="@color/ms_white"
+            android:background="@color/colorPrimary"
             android:id="@+id/register1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

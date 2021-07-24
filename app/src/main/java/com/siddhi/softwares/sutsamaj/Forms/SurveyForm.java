@@ -60,11 +60,11 @@ public class SurveyForm extends AppCompatActivity {
     private ImageButton completeButton, Home;
 
     private static final String TAG = SurveyForm.class.getSimpleName();
-    private static String url = "http://sutsarthisamajcg.in/survey/api/getCasts";
-    private static String url1 = "http://sutsarthisamajcg.in/survey/api/getGotras";
-    private static String url2 = "http://sutsarthisamajcg.in/survey/api/getEducation";
-    private static String url3 = "http://sutsarthisamajcg.in/survey/api/getCastInCertificates";
-    private static String url4 = "http://sutsarthisamajcg.in/survey/api/getEmployment";
+    private static String url = "https://sutsarthisamajcg.in/survey/api/getCasts";
+    private static String url1 = "https://sutsarthisamajcg.in/survey/api/getGotras";
+    private static String url2 = "https://sutsarthisamajcg.in/survey/api/getEducation";
+    private static String url3 = "https://sutsarthisamajcg.in/survey/api/getCastInCertificates";
+    private static String url4 = "https://sutsarthisamajcg.in/survey/api/getEmployment";
 
     //For storing the name
     ArrayList<String> casteList;

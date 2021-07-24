@@ -85,12 +85,12 @@ public class MembersActivity extends AppCompatActivity {
 
     private static final String TAG = SurveyForm.class.getSimpleName();
 
-    private static String url1 = "http://sutsarthisamajcg.in/survey/api/getRelations";
-    private static String url2 = "http://sutsarthisamajcg.in/survey/api/getEducation";
-    private static String url3 = "http://sutsarthisamajcg.in/survey/api/getCastInCertificates";
-    private static String url4 = "http://sutsarthisamajcg.in/survey/api/memberSave";
+    private static String url1 = "https://sutsarthisamajcg.in/survey/api/getRelations";
+    private static String url2 = "https://sutsarthisamajcg.in/survey/api/getEducation";
+    private static String url3 = "https://sutsarthisamajcg.in/survey/api/getCastInCertificates";
+    private static String url4 = "https://sutsarthisamajcg.in/survey/api/memberSave";
 
-    private static String ROOT_URL = "http://sutsarthisamajcg.in/survey/api/getEmployment";
+    private static String ROOT_URL = "https://sutsarthisamajcg.in/survey/api/getEmployment";
     DatabaseHelper dbhelperr;
 
     ArrayList<MembersListModel> arraylistmembers = new ArrayList<>();
@@ -239,7 +239,7 @@ public class MembersActivity extends AppCompatActivity {
     void startingRide(){
         try{
             httpclient=new DefaultHttpClient();
-            httppost= new HttpPost("http://sutsarthisamajcg.in/survey/api/memberSave"); // make sure the url is correct.
+            httppost= new HttpPost("https://sutsarthisamajcg.in/survey/api/memberSave"); // make sure the url is correct.
             //add your data
             nameValuePairs = new ArrayList<NameValuePair>(1);
 

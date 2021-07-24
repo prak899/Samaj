@@ -42,8 +42,8 @@ public class SpouseActivity extends AppCompatActivity {
     Spinner spinner, spinner1, spinner2, spinner3, spinner4;
 
     private ProgressDialog pDialog;
-    private static String url1 = "http://sutsarthisamajcg.in/survey/api/getGotras";
-    private static String url =  "http://sutsarthisamajcg.in/survey/api/getStates";
+    private static String url1 = "https://sutsarthisamajcg.in/survey/api/getGotras";
+    private static String url =  "https://sutsarthisamajcg.in/survey/api/getStates";
 
 
     ArrayList<String> getGotras;
@@ -475,7 +475,7 @@ public class SpouseActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(SpouseActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getDistricts?state="+re;
+        String url = "https://sutsarthisamajcg.in/survey/api/getDistricts?state="+re;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
@@ -535,7 +535,7 @@ public class SpouseActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getTehsils?district="+re;
+        String url = "https://sutsarthisamajcg.in/survey/api/getTehsils?district="+re;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
@@ -596,7 +596,7 @@ public class SpouseActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(SpouseActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getVillages?tehsil="+re;
+        String url = "https://sutsarthisamajcg.in/survey/api/getVillages?tehsil="+re;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {

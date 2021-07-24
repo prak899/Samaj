@@ -322,7 +322,7 @@ public class TemporaryAddressActivity extends AppCompatActivity {
             HttpHandler sh = new HttpHandler();
 
             // Making a request to url and getting response
-            String url = "http://sutsarthisamajcg.in/survey/api/getStates";
+            String url = "https://sutsarthisamajcg.in/survey/api/getStates";
             String jsonStr = sh.makeServiceCall(url);
 
             Log.e(TAG, "Response from url: " + jsonStr);
@@ -394,7 +394,7 @@ public class TemporaryAddressActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(TemporaryAddressActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getDistricts?state="+re;
+        String url = "https://sutsarthisamajcg.in/survey/api/getDistricts?state="+re;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
@@ -459,7 +459,7 @@ public class TemporaryAddressActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(TemporaryAddressActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getTehsils?district="+re;
+        String url = "https://sutsarthisamajcg.in/survey/api/getTehsils?district="+re;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
@@ -520,7 +520,7 @@ public class TemporaryAddressActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(TemporaryAddressActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getVillages?tehsil="+re;
+        String url = "https://sutsarthisamajcg.in/survey/api/getVillages?tehsil="+re;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {

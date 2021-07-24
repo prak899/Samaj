@@ -40,10 +40,10 @@ public class CustomBottomSheetDialogFragment extends BottomSheetDialogFragment {
 
     private static final String TAG = SurveyForm.class.getSimpleName();
 
-    private static String url1 = "http://sutsarthisamajcg.in/survey/api/getRelations";
-    private static String url2 = "http://sutsarthisamajcg.in/survey/api/getEducation";
-    private static String url3 = "http://sutsarthisamajcg.in/survey/api/getCastInCertificates";
-    private static String url4 = "http://sutsarthisamajcg.in/survey/api/getEmployment";
+    private static String url1 = "https://sutsarthisamajcg.in/survey/api/getRelations";
+    private static String url2 = "https://sutsarthisamajcg.in/survey/api/getEducation";
+    private static String url3 = "https://sutsarthisamajcg.in/survey/api/getCastInCertificates";
+    private static String url4 = "https://sutsarthisamajcg.in/survey/api/getEmployment";
     String[] categorydrop = {"MALE", "FEMALE"};
 
 

@@ -361,7 +361,7 @@ public class AddressActivity extends AppCompatActivity {
             HttpHandler sh = new HttpHandler();
 
             // Making a request to url and getting response
-            String url = "http://sutsarthisamajcg.in/survey/api/getStates";
+            String url = "https://sutsarthisamajcg.in/survey/api/getStates";
             String jsonStr = sh.makeServiceCall(url);
 
             Log.e(TAG, "Response from url: " + jsonStr);
@@ -437,7 +437,7 @@ public class AddressActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(AddressActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getDistricts?state="+re;
+        String url = "https://sutsarthisamajcg.in/survey/api/getDistricts?state="+re;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
@@ -505,7 +505,7 @@ public class AddressActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(AddressActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getTehsils?district="+a;
+        String url = "https://sutsarthisamajcg.in/survey/api/getTehsils?district="+a;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
@@ -569,7 +569,7 @@ public class AddressActivity extends AppCompatActivity {
         //String a=String.valueOf(2);
         RequestQueue ExampleRequestQueue = Volley.newRequestQueue(AddressActivity.this);
 
-        String url = "http://sutsarthisamajcg.in/survey/api/getVillages?tehsil="+a;
+        String url = "https://sutsarthisamajcg.in/survey/api/getVillages?tehsil="+a;
 
         Log.d("XurlX", url);
         StringRequest ExampleStringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
